@@ -1,2 +1,1 @@
-# Purdy_Goodies
-https://betulkaplan.github.io/Purdy_Goodies/
+An app done with Javascript Html and CSS in 1 hour, A speedrun 
